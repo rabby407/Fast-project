@@ -1,0 +1,58 @@
+h1 {
+    color: red;
+    background-color: aqua;
+    border: 4px solid yellow;
+    border-radius: 30px;
+    text-align: center;
+}
+.one {
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    margin: 40px 20px;
+    padding: 50px 40px;
+    border-radius: 35px;
+    border: 5px solid black;
+    outline: 5px solid aqua;
+    outline-offset: 3px;
+    box-shadow: -6px -6px 6px plum,
+                6px 6px 6px plum;
+    text-indent: 5opx;
+    letter-spacing: 3px;
+    word-spacing: 8px;
+    line-height: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:azure;
+    font-size: 19px;
+    font-weight: 400;
+}
+.one:hover {
+    background-color: blue;
+    font-family: Impact;
+    color: aqua;
+}
+.one:active {
+    background-color: blueviolet;
+}
+a {
+    color:brown;
+    background-color: blue;
+    text-decoration: none;
+    padding: 4px;
+    
+}
+a:hover {
+    color: blueviolet;
+    background-color:black;
+}
+a:active {
+    color:yellow;
+    background-color: bisque;
+}
+hr {
+    color:blue;
+    margin: 60px;
+    box-shadow: -6px -6px 6px plum,
+                6px 6px 6px plum;
+
+}
